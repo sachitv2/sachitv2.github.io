@@ -27,7 +27,7 @@ Plot 1:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Interactive_Visualization.json" style="width: 100%"></vegachart>
 
- ##User Guide:
+ ## User Guide:
 
 Navigating the IFC Investment Dashboard is user-friendly, even for those new to data visualization:
 
