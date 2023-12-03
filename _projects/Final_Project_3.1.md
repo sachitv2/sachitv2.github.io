@@ -100,5 +100,7 @@ Linked Bar Charts: To delve deeper into the selected data points, two linked bar
 Contextual Visualization with MIGA: To enrich the analysis and provide context, visualizations from the Multilateral Investment Guarantee Agency (MIGA) are seamlessly integrated. This comparative approach enables users to contrast IFC and MIGA investments, offering a holistic view of multilateral financial activities. The combined charts provide a comprehensive narrative of investment patterns, sectors, and temporal trends. 
 
 Dataset URL: "https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/IFC_Investment_Services_Projects.csv"
+Contextual Dataset URL:
+"https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/MIGA_Issued_Projects.csv"
 
 
