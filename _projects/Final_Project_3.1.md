@@ -10,7 +10,7 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-**Group Members:** Sachit Vasudeva and Deeksha Manohar Rao
+<b>Group Members:<\b> Sachit Vasudeva and Deeksha Manohar Rao
 
 **Tools:** Python, HTML, vega-lite
 
