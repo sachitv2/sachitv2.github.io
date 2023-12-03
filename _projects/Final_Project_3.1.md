@@ -1,4 +1,4 @@
-# ---
+---
  name: Final Project 3.1
  group members: Sachit Vasudeva and Deeksha Manohar Rao
  tools: [Python, HTML, vega-lite]
