@@ -10,7 +10,7 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-# Group Members: Sachit Vasudeva and Deeksha Manohar Rao 
+#Group Members: Sachit Vasudeva and Deeksha Manohar Rao 
 
 
 # Final Project 3.1 
