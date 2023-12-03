@@ -1,14 +1,14 @@
 # ---
-name: Final Project 3.1
-group members: Sachit Vasudeva and Deeksha Manohar Rao
-tools: [Python, HTML, vega-lite]
-image: assets/pngs/Project.png
-description: These contain the plots for the project that includes 2 datasets outlining income levels and investments for different countries around the world.
- custom_js:
-   - vega.min
-   - vega-lite.min
-   - vega-embed.min
-   - justcharts
+# name: Final Project 3.1
+# group members: Sachit Vasudeva and Deeksha Manohar Rao
+# tools: [Python, HTML, vega-lite]
+# image: assets/pngs/Project.png
+# description: These contain the plots for the project that includes 2 datasets outlining income levels and investments for different countries around the world.
+ # custom_js:
+   # - vega.min
+   # - vega-lite.min
+   # - vega-embed.min
+   # - justcharts
 ---
 
 
