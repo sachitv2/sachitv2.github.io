@@ -115,5 +115,7 @@ Contextual Visualization with MIGA: To enrich the analysis and provide context, 
 Dataset URL: "https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/IFC_Investment_Services_Projects.csv"
 Contextual Dataset URL:
 "https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/MIGA_Issued_Projects.csv"
+Python notebook URL:
+"https://github.com/sachitv2/sachitv2.github.io/blob/main/python_notebooks/Final_Project_3.1-1.ipynb"
 
 
