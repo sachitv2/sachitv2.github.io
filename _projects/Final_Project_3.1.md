@@ -97,15 +97,7 @@ Interactive Heatmap: The heatmap chart serves as the centerpiece of the dashboar
 
 Linked Bar Charts: To delve deeper into the selected data points, two linked bar charts are employed. The first bar chart displays the total IFC investment by country, providing a detailed breakdown. The second bar chart focuses on the sectoral distribution of investments, offering insights into the industries that attract significant funding. Both charts dynamically adjust based on user selections, facilitating a granular analysis.
 
-Contextual Visualization with MIGA: To enrich the analysis and provide context, visualizations from the Multilateral Investment Guarantee Agency (MIGA) are seamlessly integrated. This comparative approach enables users to contrast IFC and MIGA investments, offering a holistic view of multilateral financial activities. The combined charts provide a comprehensive narrative of investment patterns, sectors, and temporal trends.
+Contextual Visualization with MIGA: To enrich the analysis and provide context, visualizations from the Multilateral Investment Guarantee Agency (MIGA) are seamlessly integrated. This comparative approach enables users to contrast IFC and MIGA investments, offering a holistic view of multilateral financial activities. The combined charts provide a comprehensive narrative of investment patterns, sectors, and temporal trends. 
 
-<!-- these are written in a combo of html and liquid --> 
 
-<div class="left">
-{% include elements/button.html link="https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/IFC_Investment_Services_Projects.csv" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/MIGA_Issued_Projects.csv" %}
-</div>
 
