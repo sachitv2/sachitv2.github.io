@@ -13,8 +13,11 @@ custom_js:
 **Group Members:** Sachit Vasudeva and Deeksha Manohar Rao
 
 **Tools:** Python, HTML, vega-lite
+
 **Image:** assets/pngs/Project.png
+
 **Description:** These contain the plots for the project that includes 2 datasets outlining income levels and investments for different countries around the world.
+
 **Custom_js:**
   - vega.min
   - vega-lite.min
@@ -28,7 +31,7 @@ Plot 1:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Interactive_Visualization.json" style="width: 100%"></vegachart>
 
- ## User Guide:
+# User Guide:
 
 Navigating the IFC Investment Dashboard is user-friendly, even for those new to data visualization:
 
