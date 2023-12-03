@@ -102,10 +102,10 @@ Contextual Visualization with MIGA: To enrich the analysis and provide context, 
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/IFC_Investment_Services_Projects.csv"%}
+{% include elements/button.html link="https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/IFC_Investment_Services_Projects.csv" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/MIGA_Issued_Projects.csv"%}
+{% include elements/button.html link="https://raw.githubusercontent.com/deekshamanoharrao/deekshamanoharrao.github.io/main/_data/MIGA_Issued_Projects.csv" %}
 </div>
 
