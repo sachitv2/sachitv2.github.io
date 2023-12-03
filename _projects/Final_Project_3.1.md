@@ -10,11 +10,11 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-Group Members: Sachit Vasudeva and Deeksha Manohar Rao
-Tools: Python, HTML, vega-lite
-Image: assets/pngs/Project.png
-Description: These contain the plots for the project that includes 2 datasets outlining income levels and investments for different countries around the world.
-Custom_js:
+**Group Members:** Sachit Vasudeva and Deeksha Manohar Rao
+**Tools:** Python, HTML, vega-lite
+**Image:** assets/pngs/Project.png
+**Description:** These contain the plots for the project that includes 2 datasets outlining income levels and investments for different countries around the world.
+**Custom_js:**
   - vega.min
   - vega-lite.min
   - vega-embed.min
